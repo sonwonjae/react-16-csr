@@ -3,7 +3,6 @@ const HtmlWebpackPlugin = require("html-webpack-plugin");
 const ReactRefreshWebpackPlugin = require("@pmmmwh/react-refresh-webpack-plugin");
 
 const webpack = require("webpack");
-const webpackDevServer = require("webpack-dev-server");
 
 module.exports = {
   mode: "development",
