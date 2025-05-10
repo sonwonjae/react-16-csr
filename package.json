@@ -1,11 +1,10 @@
 {
   "name": "react-16-csr",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
     "dev": "node server.js"
   },
-  "author": "",
+  "author": "luke",
   "license": "ISC",
   "description": "",
   "dependencies": {
